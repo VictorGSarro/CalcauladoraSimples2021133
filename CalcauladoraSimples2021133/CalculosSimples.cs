@@ -18,10 +18,6 @@ public class CalculosSimples
         return soma;
     }
 
-}
-
-public class CalculosSimples
-{
     public double Multiplicar(double numero1, double numero2)
     {
         double soma = numero1 * numero2;
